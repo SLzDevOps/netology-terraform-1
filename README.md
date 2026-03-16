@@ -114,8 +114,6 @@ Dev-среда - разработчики могут быстро применя
 Правило безопасности: В production среде крайне не рекомендуется использовать -auto-approve без дополнительных проверок в пайплайне (review, тесты, валидация).
 
 
-![alt text](https://github.com/SLzDevOps/netology-terraform-1/blob/main/Screenshot_751.png).
-![alt text](https://github.com/SLzDevOps/netology-terraform-1/blob/main/Screenshot_752.png).
 ![alt text](https://github.com/SLzDevOps/netology-terraform-1/blob/main/Screenshot_753.png).
 
 
