@@ -1,17 +1,12 @@
-# netology-terraform-1
+# 
 
-# Домашнее задание по занятию "Практическое применение Docker" - `Фомичев Анатолий`
-
-
-## Ссылка на домашнее задание - https://github.com/netology-code/virtd-homeworks/blob/shvirtd-1/05-virt-04-docker-in-practice/README.md
+# Домашнее задание к занятию «Введение в Terraform» - `Фомичев Анатолий`
 
 
-## Ссылка на репозиторий с ДЗ - https://github.com/SLzDevOps/shvirtd-example-python
+## Ссылка на домашнее задание - https://github.com/netology-code/ter-homeworks/blob/main/01/hw-01.md
 
 
-
-
-### Задача 0
+### Задача 1
 
 Проверка наличия docker-compose и docker-compose
 Скриншоты выполнения:
@@ -20,7 +15,7 @@
 
   
   
-### Задача 1
+### Задача 3
 
 
 Скриншоты выполнения:
